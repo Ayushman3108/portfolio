@@ -1,36 +1,52 @@
-Hi, I'm Ayushman Banerjee 👋
-Aspiring Full-Stack Developer | Problem Solver | Computer Science Student
-I'm a developer-in-progress based in Lucknow, India, interested in building useful, user-friendly web applications. I enjoy turning ideas into working projects, learning new technologies, and strengthening my problem-solving skills through Data Structures and Algorithms.
+<div align="center">Hey, I'm Ayushman Banerjee 👋
+Aspiring Full-Stack Developer · Problem Solver · Lifelong Learner
+Building my skills one project at a time.
+<p>
+  <a href="https://github.com/Ayushman3108">
+    <img src="https://img.shields.io/badge/GitHub-Ayushman3108-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" alt="Focus: Full-Stack Development">
+  <img src="https://img.shields.io/badge/Learning-Always-16A34A?style=for-the-badge" alt="Always learning">
+</p></div>👨‍💻 About Me
+I'm a computer science student based in Lucknow, India, passionate about web development and building useful digital experiences.
 
-My current focus is on front-end development with React and JavaScript, while continuing to build my foundations across the full stack.
-🧑‍💻 About Me
-- 🌱 Currently learning and improving my skills in full-stack web development.
-- 💻 Interested in building clean, responsive, and user-friendly web experiences.
-- 🧠 Practising Data Structures and Algorithms to improve my problem-solving ability.
-- 🤝 Interested in collaborating on practical projects and learning from other developers.
-- 🎯 Goal: To become a capable full-stack developer and build impactful, AI-driven web applications.
-🛠️ Skills & Technologies
+I enjoy turning ideas into working applications, exploring new technologies, and improving my problem-solving skills through Data Structures and Algorithms.
+- 🌐 Exploring full-stack web development
+- ⚛️ Currently focusing on JavaScript and React
+- 🧩 Practising Data Structures and Algorithms
+- 🛠️ Learning through hands-on projects and consistent practice
+- 🎯 Working towards building user-friendly, AI-driven web applications
+🧰 Tech Stack
 Languages
-- JavaScript
-- Java
-- Python
-- SQL
-Web Development
-- HTML5
-- CSS3
-- React
-Tools
-- Git
-- GitHub
-- VS Code
-This list reflects the technologies I'm currently learning and practising. I'll update it as I gain hands-on experience.
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="SQL">
+</p>Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+</p>Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="Visual Studio Code">
+</p>🚀 Featured Project
+🔍 Online Fraud Detector
+A project exploring the detection of potentially fraudulent online activity.
 
-🚀 Projects
-Online Fraud Detector
-A project focused on identifying or detecting potentially fraudulent online activity.
-- Repository: Online Fraud Detector
-Add a short description of the problem, the approach, and the technologies used once the project details are finalised.
-📫 Connect With Me
-- Email: ayushmannbanerjee3108@gmail.com
-- LinkedIn: Ayushman Banerjee
-- GitHub: Ayushman3108
+📈 What I'm Working On
+- Strengthening my JavaScript and React fundamentals.
+- Improving my DSA problem-solving skills.
+- Practising Git and GitHub collaboration workflows.
+- Building practical projects and learning from the development process.
+🤝 Let's Connect
+I'm always happy to connect with fellow developers, learners, and people working on interesting projects.
+<p>
+  <a href="https://github.com/Ayushman3108">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub">
+  </a>
+</p><div align="center">
+</div>
